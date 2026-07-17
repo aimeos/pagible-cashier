@@ -179,4 +179,4 @@ Event::listen(FirstPaymentPaid::class, function ($event) {
 
 ## License
 
-MIT
+LGPL-3.0-only
